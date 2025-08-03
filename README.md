@@ -2,7 +2,7 @@
 
 This is the official implementation of IROS2025 papaer "Human-Robot Shared Visual Servoing Based on Game Theory" created by Zitai Fang, Chong Cao, and Lijun Han.
 
-![](doc/concept.png)
+![](doc/Concept.png)
 
 ## Abstract 
 
@@ -11,11 +11,11 @@ on game theory. Game theory is used to model the relationship between humans and
 
 ## Paper
 
-The original paper can be found in "paper/paper.pdf" in this repository.
+The original paper can be found in "[paper/paper.pdf](./paper/paper.pdf)" in this repository.
 
 ## Supplemental Items
 
-The supplementary item includes a video, which can be found in "video/video.mp4" in this repository. This Mp4 video file an overview of the experimental setup, the outline of our proposed method, and the experimental results. The entire video is divided into two experiments. In Experiment I, we show the visual servoing results under three control modes. We also analyze our method in detail. In Experiment II, we show the comparative results of our proposed "dynamic role adaptation" control mode and "fixed role" control mode.
+The supplementary item includes a video, which can be found in "[video/video.mp4](./video/video.mp4)" in this repository. This Mp4 video file an overview of the experimental setup, the outline of our proposed method, and the experimental results. The entire video is divided into two experiments. In Experiment I, we show the visual servoing results under three control modes. We also analyze our method in detail. In Experiment II, we show the comparative results of our proposed "dynamic role adaptation" control mode and "fixed role" control mode.
 Player Information: Any Mp4 player (VLC, Windows Media Player, etc.) is sufficient for viewing.
 
 ## Copyright
