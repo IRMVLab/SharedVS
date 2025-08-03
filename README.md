@@ -2,7 +2,7 @@
 
 This is the official implementation of IROS2025 papaer "Human-Robot Shared Visual Servoing Based on Game Theory" created by Zitai Fang, Chong Cao, and Lijun Han.
 
-![图片](doc/concept.png)
+![](doc/concept.png)
 
 ## Abstract 
 
